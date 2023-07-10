@@ -63,7 +63,7 @@ docker build -t azizulmaqsud/springboot-crud-k8s:1.0 .
 
 kubectl port-forward --address 0.0.0.0 svc/{your service name} {external port to the Internet}:{your service port, the port your app is listening on in it's container}
 
-for example, if my service is named petstore and is listening on 80
+for example, if your service is named petstore and is listening on 80
 
 kubectl port-forward --address 0.0.0.0 svc/petstore 8888:80
 
