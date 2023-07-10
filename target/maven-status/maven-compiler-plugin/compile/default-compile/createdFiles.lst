@@ -1,0 +1,5 @@
+com/azizul/crud/entity/Order.class
+com/azizul/crud/repository/OrderRepository.class
+com/azizul/crud/service/OrderService.class
+com/azizul/crud/SpringbootCrudK8sExampleApplication.class
+com/azizul/crud/controller/OrderController.class
