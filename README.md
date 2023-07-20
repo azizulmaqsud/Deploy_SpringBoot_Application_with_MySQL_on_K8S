@@ -1,4 +1,4 @@
-# Deploy_SpringBoot_Application_with_MySQL_on_K8S
+# Deploy SpringBoot Application with MySQL on K8S
 # Steps
 1. Launch an instance from an Amazon Linux 2 or Amazon Linux AMI.
 2. Connect to the instance.
